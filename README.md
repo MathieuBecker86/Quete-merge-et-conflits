@@ -1,4 +1,4 @@
-# Quete-merge-et-conflits
+LOCAL
 
 
 J'écris quelques lignes dans le fichier read.
