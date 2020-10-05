@@ -1,4 +1,4 @@
-# Quete-merge-et-conflits
+REMOTE
 
 
 J'écris quelques lignes dans le fichier read.
